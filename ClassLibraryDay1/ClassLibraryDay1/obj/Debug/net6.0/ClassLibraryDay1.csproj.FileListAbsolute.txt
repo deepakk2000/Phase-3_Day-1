@@ -1,0 +1,11 @@
+D:\Phase 4\Assignment\Day-1\ClassLibraryDay1\ClassLibraryDay1\bin\Debug\net6.0\ClassLibraryDay1.deps.json
+D:\Phase 4\Assignment\Day-1\ClassLibraryDay1\ClassLibraryDay1\bin\Debug\net6.0\ClassLibraryDay1.dll
+D:\Phase 4\Assignment\Day-1\ClassLibraryDay1\ClassLibraryDay1\bin\Debug\net6.0\ClassLibraryDay1.pdb
+D:\Phase 4\Assignment\Day-1\ClassLibraryDay1\ClassLibraryDay1\obj\Debug\net6.0\ClassLibraryDay1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phase 4\Assignment\Day-1\ClassLibraryDay1\ClassLibraryDay1\obj\Debug\net6.0\ClassLibraryDay1.AssemblyInfoInputs.cache
+D:\Phase 4\Assignment\Day-1\ClassLibraryDay1\ClassLibraryDay1\obj\Debug\net6.0\ClassLibraryDay1.AssemblyInfo.cs
+D:\Phase 4\Assignment\Day-1\ClassLibraryDay1\ClassLibraryDay1\obj\Debug\net6.0\ClassLibraryDay1.csproj.CoreCompileInputs.cache
+D:\Phase 4\Assignment\Day-1\ClassLibraryDay1\ClassLibraryDay1\obj\Debug\net6.0\ClassLibraryDay1.dll
+D:\Phase 4\Assignment\Day-1\ClassLibraryDay1\ClassLibraryDay1\obj\Debug\net6.0\refint\ClassLibraryDay1.dll
+D:\Phase 4\Assignment\Day-1\ClassLibraryDay1\ClassLibraryDay1\obj\Debug\net6.0\ClassLibraryDay1.pdb
+D:\Phase 4\Assignment\Day-1\ClassLibraryDay1\ClassLibraryDay1\obj\Debug\net6.0\ref\ClassLibraryDay1.dll
